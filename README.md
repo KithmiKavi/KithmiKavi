@@ -1,4 +1,4 @@
-# Ayubowan 🙏🏾, I'm Asanka 🇱🇰
+# Ayubowan 🙏🏾, I'm Kithmi 🇱🇰
 
 ![I'm a tech nerd and a coding enthusiast](https://github.com/asankaSovis/asankaSovis/blob/main/Cover.png)
 
