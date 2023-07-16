@@ -4,25 +4,23 @@
 
 > Cyber Security Undergraduate from Sri Lanka Technological Campus
 
-**🤔 Knowing how to code makes you look at the world from a different perspective 🌏. That's why I'm so passionate about coding. Hello World 👋; welcome to my Github profile. I'm still a student and am 24 years of age, so there's a long journey ahead of me 🙆. I like to dream 💬 big and to see other peoples dreams come true. I'm a tech nerd 🐱‍💻 and a coding enthusiast. Hope you might find me amusing.🤩**
+**🤔 Knowing how to cyber security you look at the world from a different perspective 🌏. That's why I'm so passionate about ethical Hacking. Hello, World 👋; welcome to my GitHub profile. I'm still a student and am 23 years of age, so there's a long journey ahead of me 🙆. I like to dream 💬 big and to see other people's dreams come true. I'm a tech nerd 🐱‍💻 and an Ethical Hacking enthusiast. Hope you might find me amusing.🤩**
 
                                        “It is man that ends, but his works can endure.”
                                                   - The Watchmakers Apprentice
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges (NOTE: If you see this text, then someting must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges (NOTE: If you see this text, then something must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)" /></a> </p>
 
-🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I'm also working full-time as an Embedded Systems Engineering Intern at Atlas Populi Labs to complete my internship. I spend most of my time working on my campus work, developing engineering designs at my workplace and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
+🧑‍🔬 As a Cyber Security undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I'm also working full-time as an Embedded Systems Engineering Intern at Atlas Populi Labs to complete my internship. I spend most of my time working on my campus work, developing engineering designs at my workplace and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
 
 **Skills:** Electronic Engineering ⚡ | FPGAs &nbsp;𓇲&nbsp; | Programming 💻 | Graphic Designing 📊 | Teamwork 🤝 | Writing 📝
 
 - 🤗 Passionate about anything tech
-- 👍 Like music, good art and exercise
-- 🎓 Studying Electronics and Telecommunication Engineering at [SLTC Research University](https://sltc.ac.lk/)
-- 👨‍💻 Working as an Embedded Systems Engineering Intern at [Atlas Populi Labs](https://atlaslabs.com.au/)
-- 🧭 Co-creator of [Project Almanac](http://www.projectalmanac.org/)
-- 📧 How to reach me: [akashsovis@gmail.com](mailto:akashsovis@gmail.com)
+- 👍 Like sports, good art and exercise
+- 🎓 Studying Cyber Security at [SLTC Research University](https://sltc.ac.lk/)
+- 📧 How to reach me: [kavithmakithmi@gmail.com](mailto:kavithmakithmi@gmail.com)
 - 🌎 [Find me on the internet](https://asankasovis.github.io/)
 - 🌲 [Go through my linktree](https://linktr.ee/asankasovis)
 - 💸 Donate to me on [Paypal](https://www.paypal.com/donate/?hosted_button_id=4EWXTWQ9FUFLA) to keep the projects alive
@@ -38,7 +36,7 @@
 
 ## 🐾 Github Footprint
 
-⚡I am passionate about sharing my knowledge with others. This is why I share most of my work on Github for others to see. My hope is that some day someone will find my work useful.
+⚡I am passionate about sharing my knowledge with others. This is why I share most of my work on GitHub for others to see. My hope is that someday someone will find my work useful.
 
 ![Github Metrics](/metrics/metrics.plugin.base.svg)
 
