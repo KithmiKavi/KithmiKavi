@@ -21,16 +21,13 @@
 - 👍 Like sports, good art and exercise
 - 🎓 Studying Cyber Security at [SLTC Research University](https://sltc.ac.lk/)
 - 📧 How to reach me: [kavithmakithmi@gmail.com](mailto:kavithmakithmi@gmail.com)
-- 🌎 [Find me on the internet](https://asankasovis.github.io/)
-- 🌲 [Go through my linktree](https://linktr.ee/asankasovis)
-- 💸 Donate to me on [Paypal](https://www.paypal.com/donate/?hosted_button_id=4EWXTWQ9FUFLA) to keep the projects alive
 
 ## 💜 Social Media
 
 ⚡I am on most of the social media on the internet. I share interesting things related to electronics, tech and programming. I also share my own work, not to mention the blog posts I write. Sometimes you might find some other things as well.
 
-[<img src='https://github.com/asankaSovis/asankaSovis/blob/main/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/artist.artist.98) [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/github.svg' alt='github' height='30'>](https://github.com/asankaSovis)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/asankaakashsovis/)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/twitter.svg' alt='twitter' height='30'>](https://twitter.com/AsankaSovis)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/asanka-sovis/)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/youtube.svg' alt='youTube' height='30'>](https://www.youtube.com/c/AKASHSOVIS/) 
-[<img src='https://github.com/asankaSovis/asankaSovis/blob/main/deviant.svg' alt='deviant' height='30'>](https://www.deviantart.com/asanka98)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/pin.svg' alt='pinterest' height='30'>](https://www.pinterest.com/asankasovis)     [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/hashnode.png' alt='hashnode' height='28'>](https://asanka.hashnode.dev/)     [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/blog.svg' alt='blog' height='28'>](https://asanka-sovis.blogspot.com/)
+[<img src='https://github.com/asankaSovis/asankaSovis/blob/main/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/kkavithma?mibextid=ZbWKwL) [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/github.svg' alt='github' height='30'>](https://github.com/KithmiKavi)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/instagram.svg' alt='instagram' height='30'>]()  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/twitter.svg' alt='twitter' height='30'>]()  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/kithmi-kavithma-6597961a4/)  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/youtube.svg' alt='youTube' height='30'>]() 
+[<img src='https://github.com/asankaSovis/asankaSovis/blob/main/deviant.svg' alt='deviant' height='30'>]()  [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/pin.svg' alt='pinterest' height='30'>]()     [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/hashnode.png' alt='hashnode' height='28'>]()     [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/blog.svg' alt='blog' height='28'>]()
 
 **Also drop a [quick message](https://tr.ee/GbXYISHOTX), I'll try to reply as soon as possible.**
 
